@@ -15,3 +15,28 @@ a:hover{
     width: 100%;
     text-align: center;
 }
+
+table,th,td {
+    border: 1px solid black;
+    text-align: center;
+    background-color: #eeeeee;
+}
+td{
+    padding: 3px;
+}
+
+.phil{
+    background-color: #bdb8ff;
+}
+
+.net{
+    background-color: #ff0000;
+}
+
+.web{
+    background-color: #00ff00;
+}
+
+.alg{
+    background-color: #aaaaaa;
+}
