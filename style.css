@@ -22,7 +22,9 @@ table,th,td {
     background-color: #eeeeee;
 }
 td{
+    width: 16.67%;
     padding: 3px;
+    margin: 3px;
 }
 
 .phil{
